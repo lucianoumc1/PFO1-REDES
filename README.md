@@ -47,7 +47,6 @@ La base de datos SQLite contiene una tabla llamada `mensajes` con los siguientes
 1. **Clonar o descargar el proyecto**
    ```bash
    git clone https://github.com/lucianoumc1/PFO1-REDES.git
-   cd chat-cliente-servidor
    ```
 
 2. **Ejecutar el servidor**
